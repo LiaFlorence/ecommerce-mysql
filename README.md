@@ -79,7 +79,7 @@ O banco `ecommerce_db` possui **15 tabelas**, organizadas em quatro áreas funci
 
 O diagrama EER foi desenvolvido no **MySQL Workbench** para representar visualmente as tabelas, chaves e relacionamentos existentes no banco.
 
-![Diagrama EER do ecommerce_db](images/diagrama_eer.png)
+![Diagrama EER do ecommerce_db](diagrama_eer.png)
 
 ---
 
